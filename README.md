@@ -1,7 +1,7 @@
-# Attiny85 blink
+# ATtiny85 blink
 
 ## Description
-This demonstrates how to build, upload and debug Attiny85 program. This is done in Ubuntu VM.
+This demonstrates how to build, upload and debug ATtiny85 program. This is done in Ubuntu VM.
 
 ## Prerequisite
 ### Ubuntu installation
@@ -53,4 +53,4 @@ Use #define SIMULATOR so that it won't debug inside.
 ## Keywords
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![Make](https://img.shields.io/badge/Make-orange)
-![Attiny85](https://img.shields.io/badge/ATtiny85-lightgrey)
+![ATtiny85](https://img.shields.io/badge/ATtiny85-lightgrey)
