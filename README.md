@@ -34,6 +34,8 @@ Use Arduino UNO as ISP to update fuses and upload code.
     ![update_fuses.png](update_fuses.png)
 
 ## Build and upload
+The example (blink.c) is using PB0 to blink LED.
+
 `make PORT=<YOUR PORT>`
 
 ## Debugging
