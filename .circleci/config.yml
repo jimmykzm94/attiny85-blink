@@ -15,7 +15,7 @@ jobs:
           name: "Build Firmware"
           command: make build
       - store_artifacts:
-          path: build/blink.hex
+          path: blink.hex
           destination: firmware
 
 workflows:
