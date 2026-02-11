@@ -16,7 +16,7 @@ jobs:
           command: make build
       - store_artifacts:
           path: blink.hex
-          destination: firmware
+          destination: blink.hex
 
 workflows:
   avr-build-workflow:
